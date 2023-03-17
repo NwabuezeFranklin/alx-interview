@@ -1,4 +1,4 @@
-# Programming Interviews Repository
+# Programming Interviews Repository..
 '''
 Welcome to the Programming Interviews Repository! This repository is designed to help you prepare for technical interviews for software engineering positions. It contains a collection of questions, along with solutions in multiple programming languages, that are frequently asked in programming interviews.
 '''
@@ -101,7 +101,7 @@ In this section, you will find questions and solutions related to the following 
 Coding best practices are a set of guidelines and conventions that help ensure that code is written in a consistent, maintainable, and readable manner.
 
 ### Debugging Techniques
-Debugging techniques are used to find and fix errors in code. Some of the most commonly used debugging techniques include using a debugger, adding print statements, and writing automated tests.
+Debugging techniques are used to find and fix errors in code. Some of the most commonly used debugging techniques include using a debugger, adding print statements, and writing automated tests..
 
 ### Design Patterns
 Design patterns are reusable solutions to common problems that arise in software development. They provide a way to structure code in a way that is both maintainable and scalable.
